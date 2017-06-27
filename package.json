@@ -1,0 +1,10 @@
+{
+    "name": "Titan",
+    "main": "index.html",
+    "scripts": {
+        "start": "nw"
+    },
+    "dependencies": {
+        "nw": "^0.23.4"
+    }
+}
